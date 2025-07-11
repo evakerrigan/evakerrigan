@@ -1,6 +1,4 @@
-### Привет, я - Ксения!
-
-## Frontend Developer
+### Привет, я - Frontend Developer
 
 Мой основной стек: React, TypeScript, JavaScript, Redux, AntDesign
 
