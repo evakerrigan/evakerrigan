@@ -1,11 +1,13 @@
-### Привет, я - Frontend Developer
+### Привет! Я Ксения.
 
-Мой основной стек: React, TypeScript, JavaScript, Redux, AntDesign, Next, Node
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6AD3AE&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next+%7C+TypeScript;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
 
-- **[CV](https://evakerrigan.github.io/eva-cv)**
+### Контакты для связи:
 
-Для связи со мной:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evakerrigan@gmail.com)
 
-- **[Telegram](http://t.me/EvaKerrigan)** - EvaKerrigan
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/EvaKerrigan)
 
-- **[Email](mailto:evakerrigan@gmail.com)** - evakerrigan@gmail.com
+[![CV](https://img.shields.io/badge/CV-FF6B6B?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/evakerrigan/eva-cv)
