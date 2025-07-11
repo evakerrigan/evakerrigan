@@ -1,16 +1,13 @@
-## Hi there 👋
+### Привет, я - Ксения!
 
-<!--
-**evakerrigan/evakerrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+Мой основной стек: React, TypeScript, JavaScript, Redux, AntDesign
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[CV](https://evakerrigan.github.io/eva-cv)**
+
+Для связи со мной:
+
+- **[Telegram](http://t.me/EvaKerrigan)** - EvaKerrigan
+
+- **[Email](mailto:evakerrigan@gmail.com)** - evakerrigan@gmail.com
