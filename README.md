@@ -1,6 +1,6 @@
 ### Привет, я - Frontend Developer
 
-Мой основной стек: React, TypeScript, JavaScript, Redux, AntDesign
+Мой основной стек: React, TypeScript, JavaScript, Redux, AntDesign, Next, Node
 
 - **[CV](https://evakerrigan.github.io/eva-cv)**
 
