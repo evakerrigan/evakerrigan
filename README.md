@@ -8,7 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-4493f8?style=flat&logo=gmail&logoColor=white)](mailto:evakerrigan@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-4493f8?style=flat&logo=telegram&logoColor=white)](http://t.me/EvaKerrigan)
-[![CV](https://img.shields.io/badge/CV-4493f8?style=flat&logo=todoist&logoColor=white)](https://github.com/evakerrigan/eva-cv)
+[![CV](https://img.shields.io/badge/CV-4493f8?style=flat&logo=todoist&logoColor=white)](https://evakerrigan.github.io/eva-cv)
 
 ### 🛠 Tech Stack
 
